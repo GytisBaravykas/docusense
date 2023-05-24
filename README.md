@@ -114,5 +114,6 @@ keywords = keywords_extractor(text, lang='english', n_keywords=3)
 
 Development
 ---
-1. Install poetry https://python-poetry.org/docs/#installation depending on your machine
-2. `poetry install`
+1. Checkout the repository
+2. Install poetry https://python-poetry.org/docs/#installation depending on your machine
+3.`poetry install`
